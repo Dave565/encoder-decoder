@@ -17,6 +17,6 @@ def pack(flag):
     return encoded
  
  
-flag = "chinese as a first language"
+flag = "enter any text of your choice here"
 enc = pack(flag)
 decode(enc)
